@@ -1,6 +1,6 @@
 # 🔥 robots.txt لموقع زيت العلق
 # Updated: 2 July 2026
-# Site: https://alg.oil.vercel.app/
+# Site: https://algoil.vercel.app/
 
 ############################
 # 🧠 القاعدة العامة
@@ -87,6 +87,6 @@ Disallow: /
 ############################
 # 🗺️ Sitemaps (مهم جداً)
 ############################
-Sitemap: https://alg.oil.vercel.app/sitemap.xml
-Sitemap: https://alg.oil.vercel.app/sitemap-video.xml
-Sitemap: https://alg.oil.vercel.app/sitemap-images.xml
+Sitemap: https://algoil.vercel.app/sitemap.xml
+Sitemap: https://algoil.vercel.app/sitemap-video.xml
+Sitemap: https://algoil.vercel.app/sitemap-images.xml

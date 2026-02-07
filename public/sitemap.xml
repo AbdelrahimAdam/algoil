@@ -6,51 +6,51 @@
 
   <!-- 🏠 الصفحة الرئيسية -->
   <url>
-    <loc>https://alg.oil.vercel.app/</loc>
+    <loc>https://algoil.vercel.app/</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
 
     <!-- 🎬 الفيديو الأول -->
     <video:video>
-      <video:thumbnail_loc>https://alg.oil.vercel.app/assets/images/video-preview.jpg</video:thumbnail_loc>
+      <video:thumbnail_loc>https://algoil.vercel.app/assets/images/video-preview.jpg</video:thumbnail_loc>
       <video:title>فيديو توضيحي عن زيت العلق لتكبير القضيب طبيعياً</video:title>
       <video:description>
         شاهد كيفية عمل زيت العلق لتكبير حجم القضيب وعلاج ضعف الانتصاب والقذف السريع.
         منتج طبيعي 100% ونتائج خلال 4 أسابيع.
       </video:description>
-      <video:content_loc>https://alg.oil.vercel.app/assets/videos/product-demo.mp4</video:content_loc>
+      <video:content_loc>https://algoil.vercel.app/assets/videos/product-demo.mp4</video:content_loc>
       <video:duration>150</video:duration>
       <video:publication_date>2026-01-15</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
       <video:live>no</video:live>
-      <video:player_loc allow_embed="yes">https://alg.oil.vercel.app/#video-demo</video:player_loc>
+      <video:player_loc allow_embed="yes">https://algoil.vercel.app/#video-demo</video:player_loc>
     </video:video>
 
     <!-- 🎬 الفيديو الثاني -->
     <video:video>
-      <video:thumbnail_loc>https://alg.oil.vercel.app/assets/images/usage-preview.jpg</video:thumbnail_loc>
+      <video:thumbnail_loc>https://algoil.vercel.app/assets/images/usage-preview.jpg</video:thumbnail_loc>
       <video:title>طريقة استخدام زيت العلق</video:title>
       <video:description>
         شرح عملي لكيفية استخدام زيت العلق بالطريقة الصحيحة للحصول على أفضل النتائج.
       </video:description>
-      <video:content_loc>https://alg.oil.vercel.app/assets/videos/product-usage.mp4</video:content_loc>
+      <video:content_loc>https://algoil.vercel.app/assets/videos/product-usage.mp4</video:content_loc>
       <video:duration>195</video:duration>
       <video:publication_date>2026-01-20</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
       <video:live>no</video:live>
-      <video:player_loc allow_embed="yes">https://alg.oil.vercel.app/#video-usage</video:player_loc>
+      <video:player_loc allow_embed="yes">https://algoil.vercel.app/#video-usage</video:player_loc>
     </video:video>
 
     <!-- 🖼️ الصور -->
     <image:image>
-      <image:loc>https://alg.oil.vercel.app/assets/images/product-main.jpg</image:loc>
+      <image:loc>https://algoil.vercel.app/assets/images/product-main.jpg</image:loc>
       <image:title>زيت العلق الأصلي</image:title>
       <image:caption>العبوة الأصلية لزيت العلق الطبيعي</image:caption>
     </image:image>
 
     <image:image>
-      <image:loc>https://alg.oil.vercel.app/assets/images/hero-bg.jpg</image:loc>
+      <image:loc>https://algoil.vercel.app/assets/images/hero-bg.jpg</image:loc>
       <image:title>زيت العلق – الحل الطبيعي</image:title>
       <image:caption>حل طبيعي لمشاكل ضعف الانتصاب</image:caption>
     </image:image>
@@ -59,21 +59,21 @@
 
   <!-- 🔗 أقسام الصفحة (anchors) -->
   <url>
-    <loc>https://alg.oil.vercel.app/#contact</loc>
+    <loc>https://algoil.vercel.app/#contact</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://alg.oil.vercel.app/#pricing</loc>
+    <loc>https://algoil.vercel.app/#pricing</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://alg.oil.vercel.app/#faq</loc>
+    <loc>https://algoil.vercel.app/#faq</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
